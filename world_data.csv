@@ -1,0 +1,194 @@
+,Country,Continent,Population,Main Language Family,Official Languages,Semi-Official Languages,Main Languages,Indo-European Languages,Sino-Tibetan Languages,Niger-Congo Languages,Afro-Asiatic Languages,Austronesian Languages,Dravidian Languages,Turkic Languages,Japonic Languages,Austro-Asiatic Languages,Tai-Kadai Languages,Koreanic Languages,Nilo-Saharan Languages,Uralic Languages,Other Significant Languages,Percent Catholic,Percent Protestant,Percent Orthodox,Percent Muslim,Percent Hindu,Percent Buddhist,Percent Other Religions
+0,Afghanistan,Asia,34000000.0,Indo-European,"Persian, Pashto","Uzbek, Turkmen, Balochi, Pashayi, Nuristani, Pamir",Persian,"Persian, Pashto, English, Urdu, Pashayi, Nuristani",,,Arabic,,,"Uzbek, Turkmen",,,,,,,,,,,1.0,,,0.0
+1,Albania,Europe,3000000.0,Indo-European,Albanian,,Albanian,"Albanian, Greek",,,,,,,,,,,,,,0.1,,0.07,0.57,,,0.26
+2,Algeria,Africa,41000000.0,Afro-Asiatic,"Arabic, Tamazight",,French,French,,,"Arabic, Tamazight",,,,,,,,,,,,,,0.99,,,0.010000000000000009
+3,Andorra,Europe,77000.0,Indo-European,Catalan,,Catalan,"Catalan, French, Castilian, Portuguese",,,,,,,,,,,,,,1.0,,,,,,0.0
+4,Angola,Africa,29000000.0,Indo-European,Portuguese,,Portuguese,Portuguese,,"Umbundu, Kikongo, Kimbundu, Chokwe, Nhaneca, Nganguela, Fiote, Kwanhama, Muhumbi, Luvale",,,,,,,,,,,,0.41,0.38,,,,,0.20999999999999996
+5,Antigua and Barbuda,,95000.0,Indo-European,English,,English Creole,"English, English Creole",,,,,,,,,,,,,,0.08,0.68,,,,,0.24
+6,Argentina,South America,44000000.0,Indo-European,Spanish,"Guaraní, Kom, Moquoit, Wichí",Spanish,"Spanish, Italian, English, German, French",,,,,,,,,,,,,"Mapudungun, Quechua, Kom, Moquoit, Wichí",0.92,0.02,,,,,0.05999999999999994
+7,Armenia,"Europe, Asia",3000000.0,Indo-European,Armenian,,Armenian,"Armenian, Kurdish",,,,,,,,,,,,,,,0.01,0.93,,,,0.05999999999999994
+8,Australia,Australia,23000000.0,Indo-European,,,English,"English, Italian, Greek","Mandarin, Cantonese",,Arabic,,,,,Vietnamese,,,,,,0.23,0.23,0.02,0.03,0.02,0.02,0.44999999999999996
+9,Austria,Europe,9000000.0,Indo-European,German,"Serbo-Croatian, Slovenian, Hungarian",German,"German, Serbo-Croatian",,,,,,Turkish,,,,,,,,0.74,0.05,0.02,0.04,,,0.1499999999999999
+10,Azerbaijan,"Europe, Asia",10000000.0,Turkic,Azerbaijani,,Azerbaijani,"Azerbaijani, Russian, Armenian",,,,,,,,,,,,,,,,0.03,0.97,,,0.0
+11,Bahamas,,330000.0,Indo-European,English,,English Creole,"English, English Creole",,,,,,,,,,,,,,0.12,0.7,,,,,0.18000000000000005
+12,Bahrain,,1400000.0,Afro-Asiatic,Arabic,,Arabic,"English, Persian, Urdu",,,Arabic,,,,,,,,,,,0.05,0.05,0.05,0.7,0.1,0.03,0.020000000000000018
+13,Bangladesh,Asia,160000000.0,Indo-European,Bengali,,Bengali,Bengali,,,,,,,,,,,,,,,,,0.89,0.1,,0.010000000000000009
+14,Barbados,,290000.0,Indo-European,English,,English Creole,"English, English Creole",,,,,,,,,,,,,,0.04,0.66,,,,,0.29999999999999993
+15,Belarus,Europe,9500000.0,Indo-European,"Russian, Belarussian",,Russian,"Russian, Belarussian",,,,,,,,,,,,,,0.07,,0.48,,,,0.44999999999999996
+16,Belgium,Europe,11000000.0,Indo-European,"Dutch, French, German",,Dutch,"Dutch, French, German",,,,,,,,,,,,,,0.5,0.02,,0.05,,,0.42999999999999994
+17,Belize,North America,360000.0,Indo-European,English,,"English, Spanish","English, Spanish, German",,,,,,,,,,,,,"Maya, Garifuna",0.4,0.32,,,,,0.28
+18,Benin,Africa,11000000.0,Indo-European,French,,,French,,"Fon, Yoruba",,,,,,,,,,,,0.26,0.14,,0.28,,,0.31999999999999995
+19,Bhutan,Asia,760000.0,Sino-Tibetan,Dzongkha,,,,"Sharchhopka, Dzongkha, Lhotshamkha",,,,,,,,,,,,,,,,,,,1.0
+20,Bolivia,South America,11000000.0,Indo-European,"Spanish, Quechua, Aymara, Guaraní, Araona, Baure, Bésiro, Canichana, Cavineño, Cayubaba, Chácobo, Chimán, Ese Ejja, Guarasu'we, Guarayu, Itonama, Leco, Machajuyai-Kallawaya, Machineri, Maropa, Mojeño-Ignaciano, Mojeño-Trinitario, Moré, Mosetén, Movima, Pacawara, Puquina, Sirionó, Tacana, Tapieté, Toromona, Uru-Chipaya, Weenhayek, Yaminawa, Yuki, Yuracaré, Zamuco",,Spanish,Spanish,,,,,,,,,,,,,"Quechua, Aymara, Guaraní",0.77,0.08,,,,,0.15000000000000002
+21,Bosnia and Herzegovina,Europe,3900000.0,Indo-European,Serbo-Croatian,,Serbo-Croatian,Serbo-Croatian,,,,,,,,,,,,,,0.15,,0.31,0.51,,,0.030000000000000027
+22,Botswana,Africa,2200000.0,Indo-European,English,,Tswana,English,,"Tswana, Kalanga, Kgalagadi, Shona, Tsarwa, Mbukushu, isiNdebele",,,,,,,,,,,,0.07,0.72,,,,,0.20999999999999996
+23,Brazil,South America,210000000.0,Indo-European,Portuguese,"German, Kashubian, Italian, Nheengatu, Guaraní",Portuguese,"Portuguese, Spanish, German, Italian, English, Kashubian",,,,,,,Japanese,,,,,,"Nheengatu, Baniwa, Tucano, Guaraní",0.65,0.22,,,,,0.13
+24,Brunei Darussalam,,440000.00000000006,Austronesian,Malay,,"Malay, English",English,"Mandarin, Minnan, Cantonese, Hakka",,,Malay,,,,,,,,,,,0.09,,0.79,,0.08,0.040000000000000036
+25,Bulgaria,Europe,7100000.0,Indo-European,Bulgarian,,Bulgarian,"Bulgarian, Romani",,,,,,Turkish,,,,,,,,,,0.59,0.08,,,0.33000000000000007
+26,Burkina Faso,Africa,20000000.0,Indo-European,French,,,French,,,,,,,,,,,,,,0.23,0.07,,0.62,,,0.07999999999999996
+27,Burundi,Africa,11000000.0,Niger-Congo,"Kirundi, French, English",,,"French, English",,"Kirundi, Swahili",,,,,,,,,,,,0.62,0.24,,0.03,,,0.10999999999999999
+28,Cabo Verde,,560000.0,Indo-European,Portuguese,,Portuguese Creole,"Portuguese, Portuguese Creole",,,,,,,,,,,,,,0.77,0.05,,0.02,,,0.15999999999999992
+29,Cambodia,Asia,16000000.0,Austroasiatic,Khmer,,Khmer,,,,,,,,,Khmer,,,,,,,,,0.02,,0.97,0.010000000000000009
+30,Cameroon,Africa,25000000.0,Indo-European,"English, French",,,"English, French",,,,,,,,,,,,,,0.38,0.26,,0.21,,,0.15000000000000002
+31,Canada,North America,36000000.0,Indo-European,"English, French","Chipewyan, Cree, Gwich'in, Inuinnaqtun, Inukitut, Slavey, Tłįcho",English,"English, French, Punjabi, Italian, Spanish, German",Cantonese,,Arabic,Tagalog,,,,,,,,,"Chipewyan, Cree, Gwich'in, Inuinnaqtun, Inukitut, Slavey, Tłįcho",0.39,0.2,0.02,0.03,0.02,0.01,0.32999999999999985
+32,Central African Republic,Africa,5600000.0,Indo-European,French,,Ngbandi Creole,French,,Ngbandi Creole,,,,,,,,,,,,0.25,0.25,,0.15,,,0.35
+33,Chad,Africa,12000000.0,Afro-Asiatic,"French, Arabic",,Arabic,French,,,,,,,,,,,Sara,,,0.2,0.24,,0.52,,,0.040000000000000036
+34,Chile,South America,18000000.0,Indo-European,Spanish,,Spanish,"Spanish, English",,,,,,,,,,,,,"Mapudungun, Aymara, Quechua, Rapa Nui",0.67,0.16,,,,,0.16999999999999993
+35,China,Asia,1400000000.0,Sino-Tibetan,Mandarin,"Zhuang, Yue, Mongolian, Uighur, Kyrgyz, Tibetan",Mandarin,,"Mandarin, Cantonese, Wu, Minbei, Minnan, Xiang, Gan, Hakka",,,,,,,,,,,,,0.01,0.03,,0.02,,0.18,0.76
+36,Colombia,South America,48000000.0,Indo-European,Spanish,,Spanish,Spanish,,,,,,,,,,,,,,0.79,0.14,,,,,0.06999999999999995
+37,Comoros,,810000.0,Niger-Congo,"Arabic, French, Shikomoro",,Shikomoro,French,,Shikomoro,Arabic,,,,,,,,,,,,,,0.98,,,0.020000000000000018
+38,Congo,Africa,5000000.0,Indo-European,French,,,French,,"Lingala, Kikongo",,,,,,,,,,,,0.33,0.2,,0.02,,,0.44999999999999996
+39,Costa Rica,North America,4900000.0,Indo-European,,,Spanish,"Spanish, English",,,,,,,,,,,,,,0.76,0.14,,,,,0.09999999999999998
+40,Côte D'Ivoire,Africa,24000000.0,Indo-European,French,,French,French,,Dioula,,,,,,,,,,,,0.17,0.14,,0.43,,,0.26
+41,Croatia,Europe,4300000.0,Indo-European,Serbo-Croatian,"Hungarian, Czech, Slovak, Ruthenian",Serbo-Croatian,"Serbo-Croatian, Czech, Slovak, Albanian",,,,,,,,,,,,Hungarian,,0.86,,0.04,0.02,,,0.07999999999999996
+42,Cuba,,11000000.0,Indo-European,Spanish,,Spanish,Spanish,,,,,,,,,,,,,,0.85,,,,,,0.15000000000000002
+43,Cyprus,,1200000.0,Indo-European,"Greek, Turkish",,Greek,"Greek, English, Romanian, Russian, Bulgarian",,,Arabic,Tagalog,,Turkish,,,,,,,,0.03,0.02,0.89,0.02,,0.01,0.029999999999999916
+44,Czech Republic,Europe,11000000.0,Indo-European,Czech,,Czech,"Czech, Slovak",,,,,,,,,,,,,,0.1,0.01,,,,,0.89
+45,Democratic People's Republic of Korea,Asia,25000000.0,Koreanic,Korean,,Korean,,,,,,,,,,,Korean,,,,,,,,,,1.0
+46,Democratic Republic of the Congo,Africa,83000000.0,Indo-European,French,,,French,,"Lingala, Swahili, Kikongo, Tshiluba",,,,,,,,,,,,0.5,0.2,,0.1,,,0.20000000000000007
+47,Denmark,Europe,5600000.0,Indo-European,Danish,"Faroese, Greenlandic",Danish,"Danish, Faroese, German",,,,,,,,,,,,,Greenlandic,,0.76,,0.04,,,0.19999999999999996
+48,Djibouti,Africa,869999.9999999999,Afro-Asiatic,"French, Arabic",,Somali,French,,,"Arabic, Somali, Afar",,,,,,,,,,,0.02,0.01,0.03,0.94,,,0.0
+49,Dominica,,74000.0,Indo-European,English,,"English, French Creole","English, French Creole",,,,,,,,,,,,,,0.61,0.29,,,,,0.10000000000000009
+50,Dominican Republic,,11000000.0,Indo-European,Spanish,,Spanish,Spanish,,,,,,,,,,,,,,0.95,,,,,,0.050000000000000044
+51,Ecuador,South America,16000000.0,Indo-European,Spanish,"Quechua, Shuar",Spanish,Spanish,,,,,,,,,,,,,"Quechua, Shuar",0.74,0.1,,,,,0.16000000000000003
+52,Egypt,"Africa, Asia",97000000.0,Afro-Asiatic,Arabic,,Arabic,,,,Arabic,,,,,,,,,,,,,0.1,0.9,,,0.0
+53,El Salvador,North America,6200000.0,Indo-European,Spanish,,Spanish,Spanish,,,,,,,,,,,,,Nawat,0.5,0.36,,,,,0.14
+54,Equatorial Guinea,Africa,780000.0,Indo-European,"Spanish, French",,Spanish,"Spanish, French",,"Fang, Bubi",,,,,,,,,,,,0.9,,,,,,0.09999999999999998
+55,Eritrea,Africa,5900000.0,Afro-Asiatic,,"Tigrinya, Arabic, English",Tigrinya,English,,,"Tigrinya, Arabic, Tigre, Afar",,,,,,,,Kunama,,,0.05,0.01,0.5,0.43,,,0.010000000000000009
+56,Estonia,Europe,1300000.0,Indo-European,Estonian,,Estonian,"Russian, Ukrainian",,,,,,,,,,,,Estonian,,,0.1,0.16,,,,0.74
+57,Ethiopia,Africa,110000000.00000001,Afro-Asiatic,,"Amharic, Oromo, Somali, Tigrinya, Afar, Sidamo, Kunama, Berta, Gumuz, Harari",,English,,,"Oromo, Amharic, Somali, Tigrinya, Sidamo, Wolaytta, Gurage, Afar, Hadiyya, Gamo, Gedeo, Kafa, Arabic, Harari",,,,,,,,"Opuuo, Kunama, Berta, Gumuz",,,0.01,0.19,0.44,0.34,,,0.020000000000000018
+58,Fiji,,919999.9999999999,Austronesian,"English, Fijian, Hindi",,Fijian,"English, Hindi",,,,Fijian,,,,,,,,,,0.09,0.45,,0.06,0.28,,0.11999999999999988
+59,Finland,Europe,5500000.0,Uralic,"Finnish, Swedish",,,"Swedish, Russian",,,,,,,,,,,,Finnish,,,0.72,0.01,,,,0.27
+60,"Former Yugoslav Republic of Macedonia, The",Europe,2100000.0,Indo-European,Macedonian,"Albanian, Turkish, Romani, Aromanian, Serbo-Croatian",Macedonian,"Macedonian, Albanian, Romani, Serbo-Croatian",,,,,,Turkish,,,,,,,,,,0.65,0.33,,,0.020000000000000018
+61,France,Europe,67000000.0,Indo-European,French,,French,"French, Provencal, Breton, Alsatian, Corsican, Catalan, Flemish",,,,,,,,,,,,,,0.63,,,0.08,,0.01,0.28
+62,Gabon,Africa,1800000.0,Indo-European,French,,French,French,,"Fang, Myene, Nzebi, Bapounou, Bandjabi",,,,,,,,,,,,0.42,0.14,,0.06,,,0.3799999999999999
+63,Gambia,Africa,2100000.0,Indo-European,English,,,English,,"Mandinka, Wolof, Fula",,,,,,,,,,,,0.02,0.02,,0.96,,,0.0
+64,Georgia,"Europe, Asia",4900000.0,Kartvelian,Georgian,Abkhaz,Georgian,"Azerbaijani, Armenian, Russian",,,,,,,,,,,,,"Georgian, Abkhaz",,,0.86,0.11,,,0.030000000000000027
+65,Germany,Europe,81000000.0,Indo-European,German,"Danish, Frisian, Sorbian, Romani",German,"German, Danish, Frisian, Sorbian, Romani",,,,,,,,,,,,,,0.29,0.27,0.02,0.04,,,0.3799999999999999
+66,Ghana,Africa,27000000.0,Indo-European,English,"Dangme, Dagaare, Dagbani, Ewe, Ga, Gonja, Kasem, Nzema, Akan",,English,,"Akan, Ewe, Fante, Dagbani, Dangme, Dagaare, Konkomba, Ga, Gonja, Kasem, Nzema",,,,,,,,,,,,0.13,0.47,,0.18,,,0.21999999999999997
+67,Greece,Europe,11000000.0,Indo-European,Greek,,Greek,"Greek, English, French",,,,,,,,,,,,,,,,0.98,0.01,,,0.010000000000000009
+68,Grenada,,110000.00000000001,Indo-European,English,,English Creole,"English, English Creole, French, French Creole",,,,,,,,,,,,,,0.36,0.49,,,,,0.15000000000000002
+69,Guatemala,North America,15000000.0,Indo-European,Spanish,,Spanish,Spanish,,,,,,,,,,,,,"Maya, Xinca, Garifuna",0.45,0.42,,,,,0.13
+70,Guinea,Africa,12000000.0,Indo-European,French,,French,French,,,,,,,,,,,,,,0.03,0.06,,0.87,,,0.040000000000000036
+71,Guinea Bissau,Africa,1800000.0,Indo-European,Portuguese,,Portuguese,Portuguese,,"Fula, Mandinka",,,,,,,,,,,,0.12,0.1,,0.45,,,0.32999999999999996
+72,Guyana,South America,740000.0,Indo-European,English,,English Creole,"English, Hindi",Mandarin,,,,,,,,,,,,Arawak,0.07,0.35,,0.07,0.25,,0.26
+73,Haiti,,11000000.0,Indo-European,"French, French Creole",,French Creole,"French, French Creole",,,,,,,,,,,,,,0.55,0.29,,,,,0.15999999999999992
+74,Honduras,North America,9000000.0,Indo-European,Spanish,"Garifuna, English, Miskito",Spanish,"Spanish, English",,,,,,,,,,,,,"Garifuna, MIskito",0.46,0.41,,,,,0.13
+75,Hungary,Europe,9900000.0,Uralic,Hungarian,,Hungarian,"English, German, Russian, Romanian, French, Serbo-Croatian, Slovak, Slovenian",,,,,,,,,,,,Hungarian,,0.39,0.14,,,,,0.47
+76,Iceland,,340000.0,Indo-European,Icelandic,,Icelandic,"Icelandic, English, German",,,,,,,,,,,,,,0.04,0.7,,,,,0.26
+77,India,Asia,1300000000.0,Indo-European,"Hindi, English","Assamese, Bengali, Bodo, Chhattisgarhi, Dogri, Garo, Gujarati, Kannada, Karbi, Kashmiri, Khasi, Kokborok, Konkani, Lepcha, Maithili, Malayalam, Meitei, Marathi, Mizo, Nepali, Newari, Oriya, Punjabi, Sanskrit, Santali, Sindhi, Sunwar, Tamil, Telugu, Urdu",,"Hindi, Bengali, Marathi, Urdu, Gujarati, Oriya, Punjabi, Assamese, Maithili, English, Kashmiri, Sindhi, Chhattisgarhi, Dogri, Konkani, Nepali, Sanskrit","Bodo, Garo, Karbi, Kokborok, Lepcha, Meitei, Mizo, Newari, Sunwar",,,,"Telugu, Tamil, Kannada, Malayalam",,,"Khasi, Santali",,,,,,0.02,,,0.14,0.8,,0.039999999999999925
+78,Indonesia,,260000000.0,Austronesian,Malay,"Javanese, Sundanese",Malay,"English, Dutch",,,,"Malay, Javanese, Sundanese",,,,,,,,,,0.03,0.07,,0.87,0.02,,0.010000000000000009
+79,Iran,Asia,82000000.0,Indo-European,Persian,,Persian,"Persian, Kurdish, Gilaki, Mazanderani, Luri, Balochi",,,Arabic,,,,,,,,,,,,,,0.99,,,0.010000000000000009
+80,Iraq,Asia,39000000.0,Afro-Asiatic,"Arabic, Kurdish","Turkemen, Syriac, Armenian",Arabic,"Kurdish, Armenian",,,"Arabic, Syriac",,,Turkmen,,,,,,,,,,,0.99,,,0.010000000000000009
+81,Ireland,,5000000.0,Indo-European,"English, Gaelic",,English,"English, Gaelic",,,,,,,,,,,,,,0.78,0.03,0.01,0.01,,,0.16999999999999993
+82,Israel,Asia,8300000.000000001,Afro-Asiatic,Hebrew,Arabic,Hebrew,English,,,"Hebrew, Arabic",,,,,,,,,,,,,,0.25,,,0.75
+83,Italy,Europe,62000000.0,Indo-European,Italian,"French, German, Ladin, Slovenian",Italian,"Italian, German, French, Slovenian, Ladin",,,,,,,,,,,,,,0.8,,,0.02,,,0.17999999999999994
+84,Jamaica,,3000000.0,Indo-European,English,,English Creole,"English, English Creole",,,,,,,,,,,,,,0.02,0.65,,,,,0.32999999999999996
+85,Japan,,130000000.0,Japonic,,,Japanese,,,,,,,,Japanese,,,,,,,0.01,0.01,,,,0.67,0.30999999999999994
+86,Jordan,Asia,10000000.0,Afro-Asiatic,Arabic,,Arabic,English,,,Arabic,,,,,,,,,,,,,0.02,0.97,,,0.010000000000000009
+87,Kazakhstan,Asia,19000000.0,Turkic,"Kazakh, Russian",,"Kazakh, Russian",Russian,,,,,,Kazakh,,,,,,,,,,0.26,0.7,,,0.040000000000000036
+88,Kenya,Africa,48000000.0,Niger-Congo,"English, Swahili",,"English, Swahili",English,,Swahili,,,,,,,,,,,,0.23,0.48,,0.11,,,0.18000000000000005
+89,Kiribati,,110000.00000000001,Indo-European,English,,Gilbertese,English,,,,Gilbertese,,,,,,,,,,0.57,0.33,,,,,0.10000000000000009
+90,Kuwait,Asia,2900000.0,Afro-Asiatic,Arabic,,Arabic,English,,,Arabic,,,,,,,,,,,0.06,0.11,,0.77,,,0.06000000000000005
+91,Kyrgyzstan,Asia,5800000.0,Turkic,"Kyrgyz, Russian",,Kyrgyz,Russian,,,,,,"Kyrgyz, Uzbek",,,,,,,,,,0.2,0.75,,,0.050000000000000044
+92,Lao People's Democratic Republic,Asia,7100000.0,Kra-Dai,Lao,,Lao,"French, English",,,,,,,,,,,,,Lao,0.01,0.01,,,,0.65,0.32999999999999996
+93,Latvia,Europe,1900000.0,Indo-European,Latvian,,Latvian,"Latvian, Russian, Polish, Ukrainian, Belarussian",,,,,,,,,,,,,,,0.2,0.15,,,,0.65
+94,Lebanon,Asia,6200000.0,Afro-Asiatic,Arabic,,Arabic,"French, English, Armenian",,,Arabic,,,,,,,,,,,0.26,,0.08,0.54,,,0.11999999999999988
+95,Lesotho,Africa,2000000.0,Niger-Congo,"Sotho, English",,Sesotho,English,,"Sesotho, Zulu, Xhosa",,,,,,,,,,,,0.4,0.4,,,,,0.19999999999999996
+96,Liberia,Africa,4700000.0,Indo-European,English,,,English,,,,,,,,,,,,,,0.07,0.76,,0.12,,,0.04999999999999993
+97,Libya,Africa,6700000.0,Afro-Asiatic,Arabic,,Arabic,"Italian, English",,,"Arabic, Nafusi, Ghadamis, Suknah, Awjilah, Tamazight",,,,,,,,,,,0.01,,0.01,0.97,,,0.010000000000000009
+98,Liechtenstein,Europe,38000.0,Indo-European,German,,German,"German, Italian",,,,,,,,,,,,,,0.76,0.08,,0.05,,,0.10999999999999999
+99,Lithuania,Europe,2800000.0,Indo-European,Lithuanian,,Lithuanian,"Lithuanian, Russian, Polish",,,,,,,,,,,,,,0.77,0.01,0.05,,,,0.16999999999999993
+100,Luxembourg,Europe,590000.0,Indo-European,"Luxembourgish, French, German",,Luxembourgish,"Luxembourgish, Portuguese, French, German, Italian, English",,,,,,,,,,,,,,0.7,,,0.02,,,0.28
+101,Madagascar,,25000000.0,Austronesian,"French, Malagasy",,Malagasy,"French, English",,,,Malagasy,,,,,,,,,,0.2,0.2,,0.05,,,0.55
+102,Malawi,Africa,19000000.0,Indo-European,English,,Chewa,English,,"Chewa, Chiyao, Tumbuka, Lomwe, Nyakyusa, Ngoni, Sena, Tonga, Lambya",,,,,,,,,,,,0.18,0.27,,0.13,,,0.41999999999999993
+103,Malaysia,Asia,31000000.0,Austronesian,Malay,,Malay,"English, Punjabi","Cantonese, Mandarin, Minnan, Hakka, Hainan, Foochow",,,Malay,"Tamil, Telugu, Malayalam",,,,,,,,Thai,0.04,0.03,0.02,0.61,0.06,0.2,0.040000000000000036
+104,Maldives,,390000.0,Indo-European,Sinhalese,,Sinhalese,"English, Sinhalese",,,,,,,,,,,,,,,,,1.0,,,0.0
+105,Mali,Africa,18000000.0,Indo-European,French,Tamazight,Bambara,French,,"Bambara, Fula, Soninke, Maninka, Minyanka, Senoufo, Bobo",Tamazight,,,,,,,,Songhay,,Dogon,0.02,0.01,,0.95,,,0.020000000000000018
+106,Malta,,420000.0,Afro-Asiatic,"Maltese, English",,Maltese,English,,,Maltese,,,,,,,,,,,0.9,,,,,,0.09999999999999998
+107,Marshall Islands,,75000.0,Austronesian,"Marshallese, English",,Marshallese,English,,,,Marshallese,,,,,,,,,,0.08,0.83,,,,,0.09000000000000008
+108,Mauritania,Africa,3800000.0,Afro-Asiatic,Arabic,,"Arabic, French",French,,"Fula, Soninke, Wolof",Arabic,,,,,,,,,,,,,,1.0,,,0.0
+109,Mauritius,,1400000.0,Indo-European,English,,French Creole,"Bhojpuri, French, French Creole, English",,,,,,,,,,,,,,0.26,,,0.17,0.49,,0.07999999999999996
+110,Mexico,North America,120000000.0,Indo-European,Spanish,,Spanish,Spanish,,,,,,,,,,,,,"Maya, Nahuatl",0.83,0.07,,,,,0.10000000000000009
+111,Micronesia,,100000.0,Indo-European,English,"Chuukese, Kosraean, Woleaian",,English,,,,"Chuukese, Kosraean, Pohnpeian, Yapese, Ulithian, Woleaian, Nukuoro, Kapingamarangi",,,,,,,,,,0.55,0.41,,,,,0.040000000000000036
+112,Monaco,Europe,31000.0,Indo-European,French,,French,"French, English, Italian, Ligurian",,,,,,,,,,,,,,0.9,,,,,,0.09999999999999998
+113,Mongolia,Asia,3100000.0,Mongolic,Mongolian,,Mongolian,Russian,,,,,,,,,,,,,Mongolian,,0.02,,0.03,,0.53,0.41999999999999993
+114,Montenegro,Europe,640000.0,Indo-European,Serbo-Croatian,Albanian,Serbo-Croatian,"Serbo-Croatian, Albanian",,,,,,,,,,,,,,0.03,,0.72,0.19,,,0.06000000000000005
+115,Morocco,Africa,34000000.0,Afro-Asiatic,"Arabic, Tamazight",,Arabic,French,,,"Arabic, Tamazight, Tachelhit, Tarifit",,,,,,,,,,,,,,0.99,,,0.010000000000000009
+116,Mozambique,Africa,27000000.0,Indo-European,Portuguese,,,Portuguese,,"Makhuwa, Tsonga, Sena, Lomwe, Chuwabu",,,,,,,,,,,,0.28,0.28,,0.18,,,0.26
+117,Myanmar,Asia,55000000.0,Sino-Tibetan,Burmese,,Burmese,,Burmese,,,,,,,,,,,,,0.01,0.05,,0.04,0.01,0.88,0.010000000000000009
+118,Namibia,Africa,2500000.0,Indo-European,English,,,"Afrikaans, English",,"Oshivambo, Herero, Kavango",,,,,,,,,,,Nama,0.15,0.7,,,,,0.15000000000000002
+119,Nauru,,11000.0,Austronesian,Nauruan,,Nauruan,English,,,,Nauruan,,,,,,,,,,0.33,0.6,,,,,0.07000000000000006
+120,Nepal,Asia,29000000.0,Indo-European,Nepali,Maithili,,"Nepali, Maithili, Bhojpuri, Tharu, Urdu, Awadhi","Tamang, Newar, Magar, Limbu, Gurung",,,,,,,,,,,,,,0.01,,0.04,0.81,0.09,0.04999999999999993
+121,Netherlands,Europe,17000000.0,Indo-European,Dutch,"Frisian, English, Portuguese",Dutch,"Dutch, Frisian, Low Saxon, Limburgish, Romani, Yiddish, English, Portuguese",,,,,,,,,,,,,,0.24,0.16,,0.05,,,0.55
+122,New Zealand,,4500000.0,Indo-European,"English, Maori","Niuean, Tokelauan",English,"English, Hindi, French","Mandarin, Yue",,,"Maori, Samoan, Niuean, Tokelauan",,,,,,,,,,0.12,0.33,,0.01,0.02,0.01,0.51
+123,Nicaragua,North America,6000000.0,Indo-European,Spanish,,Spanish,Spanish,,,,,,,,,,,,,Miskito,0.52,0.34,,,,,0.1399999999999999
+124,Niger,Africa,19000000.0,Indo-European,French,,Hausa,French,,,Hausa,,,,,,,,Djerma,,,,,,0.8,,,0.19999999999999996
+125,Nigeria,Africa,190000000.0,Indo-European,English,,,English,,"Yoruba, Igbo, Fula",Hausa,,,,,,,,,,,0.19,0.21,,0.5,,,0.09999999999999998
+126,Norway,Europe,5300000.0,Indo-European,Norwegian,Sami,Norwegian,Norwegian,,,,,,,,,,,,"Sami, Finnish",,0.02,0.82,,0.02,,,0.14
+127,Oman,Asia,3400000.0,Afro-Asiatic,Arabic,,Arabic,"English, Baluchi, Urdu",,,Arabic,,,,,,,,,,,,,0.06,0.86,0.06,0.01,0.010000000000000009
+128,Pakistan,Asia,200000000.0,Indo-European,"Urdu, English",,Punjabi,"Punjabi, Sindhi, Pashto, Urdu, Baluchi, Hindko, English",,,,,Brahui,,,,,,,,Burushaski,,,,0.96,,,0.040000000000000036
+129,Palau,,21000.0,Austronesian,"Palauan, English","Sonsorolese, Tobian, Japanese",Palauan,English,Mandarin,,,"Palauan, Tagalog, Sonsorolese, Tobian",,,Japanese,,,,,,,0.45,0.35,,0.03,,,0.16999999999999993
+130,Panama,North America,3800000.0,Indo-European,Spanish,,Spanish,"Spanish, English, French, Yiddish","Yue, Hakka",,"Arabic, Hebrew",,,,Japanese,,,Korean,,,"Guaymi, Buglere, Kuna, Embera, Wounaan, Teribe, Bribri",0.85,0.15,,,,,0.0
+131,Papua New Guinea,,6900000.0,Indo-European,"English, English Creole, Motu",,English Creole,"English, English Creole",,,,Motu,,,,,,,,,,0.27,0.69,,,,,0.040000000000000036
+132,Paraguay,South America,6900000.0,Indo-European,"Spanish, Guaraní",,"Spanish, Guaraní",Spanish,,,,,,,,,,,,,Guaraní,0.9,0.06,,,,,0.040000000000000036
+133,Peru,South America,31000000.0,Indo-European,"Spanish, Quechua, Aymara",,Spanish,Spanish,,,,,,,,,,,,,"Quechua, Aymara, Ashaninka",0.81,0.13,,,,,0.05999999999999994
+134,Philippines,,100000000.0,Austronesian,"Tagalog, English",,"Tagalog, English",English,,,,Tagalog,,,,,,,,,,0.83,0.03,,0.05,,,0.08999999999999997
+135,Poland,Europe,38000000.0,Indo-European,Polish,,Polish,"Polish, Silesian, Kashubian, Czech, Yiddish, Belarussian, Lithuanian, German, Armenian, Russian, Slovak, Ukrainian, Ruthenian, Romani",,,Hebrew,,,"Karaim, Tatar",,,,,,,,0.87,,0.01,,,,0.12
+136,Portugal,Europe,11000000.0,Indo-European,"Portuguese, Mirandese",,Portuguese,"Portuguese, Mirandese",,,,,,,,,,,,,,0.81,,,,,,0.18999999999999995
+137,Qatar,Asia,2300000.0,Afro-Asiatic,Arabic,,"Arabic, English",English,,,Arabic,,,,,,,,,,,0.09,0.05,,0.68,0.14,0.03,0.009999999999999898
+138,Republic of Korea,Asia,51000000.0,Koreanic,Korean,,Korean,English,,,,,,,,,,Korean,,,,0.08,0.2,,,,0.16,0.5599999999999999
+139,Republic of Moldova,Europe,3500000.0,Indo-European,Romanian,,Romanian,"Romanian, Russian, Ukrainian, Bulgarian, Romani",,,,,,Gagauz,,,,,,,,,,0.9,,,,0.09999999999999998
+140,Romania,Europe,22000000.0,Indo-European,Romanian,,Romanian,"Romanian, Romani",,,,,,,,,,,,Hungarian,,0.04,0.06,0.82,,,,0.08000000000000007
+141,Russian Federation,"Europe, Asia",140000000.0,Indo-European,Russian,"Abaza, Adyghe, Aghul, Altai, Azerbaijani, Bashkir, Buryat, Chuvash, Dargin, Erzya, Ingush, Kabardian, Kalmyk, Karachay-Balkar, Khakas, Komi, Kumyk, Lak, Lezgian, Mari, Moksha, Nogai, Ossetian, Rutul, Yakut, Tabasaran, Tatar, Persian, Tsakhur, Tuvan, Udmurt, Ukrainian",Russian,"Russian, Azerbaijani, Ossetian, Persian, Ukrainian",,,,,,"Tatar, Altai, Bashkir, Chuvash, Karachay-Balkar, Khakas, Kumyk, Nogai, Yakut, Tuvan",,,,,,"Erzya, Komi, Mari, Moksha, Udmurt","Chechen, Abaza, Adyghe, Aghul, Buryat, Dargin, Ingush, Kabardian, Kalmyk, Lak, Lezgian, Rutul, Tabasaran, Tsakhur",,,0.2,0.15,,,0.65
+142,Rwanda,Africa,12000000.0,Niger-Congo,"Kinyarwanda, French, English",,Kinyarwanda,"French, English",,"Kinyarwanda, Swahili",,,,,,,,,,,,0.44,0.5,,0.02,,,0.040000000000000036
+143,Saint Kitts and Nevis,,53000.0,Indo-European,English,,English Creole,"English, English Creole",,,,,,,,,,,,,,0.07,0.75,,,,,0.17999999999999994
+144,Saint Lucia,,160000.0,Indo-European,English,,French Creole,"English, French, French Creole",,,,,,,,,,,,,,0.62,0.26,,,,,0.12
+145,Saint Vincent and the Grenadines,,100000.0,Indo-European,English,,English Creole,"English, English Creole, French, French Creole",,,,,,,,,,,,,,0.13,0.75,,,,,0.12
+146,Samoa,,200000.0,Austronesian,Samoan,,Samoan,English,,,,Samoan,,,,,,,,,,0.19,0.57,,,,,0.24
+147,San Marino,Europe,34000.0,Indo-European,"Italian, Emilian-Romagnol",,Emilian-Romagnol,"Italian, Emilian-Romagnol",,,,,,,,,,,,,,0.97,,,,,,0.030000000000000027
+148,Sao Tome and Principe,,200000.0,Indo-European,Portuguese,,Portuguese,"Portuguese, French, English",,,,,,,,,,,,,,0.56,0.08,,,,,0.36
+149,Saudi Arabia,Asia,29000000.0,Afro-Asiatic,Arabic,,Arabic,,,,Arabic,,,,,,,,,,,,,,0.95,,,0.050000000000000044
+150,Senegal,Africa,15000000.0,Indo-European,French,,Wolof,French,,"Wolof, Fula, Jola, Mandinka, Serer, Soninke",,,,,,,,,,,,0.04,,,0.95,,,0.010000000000000009
+151,Serbia,Europe,7100000.0,Indo-European,Serbo-Croatian,"Hungarian, Slovak, Romanian, Ruthenian",Serbo-Croatian,"Serbo-Croatian, Romani, Slovak, Romanian, Ruthenian",,,,,,,,,,,,Hungarian,,0.05,0.01,0.85,0.03,,,0.05999999999999994
+152,Seychelles,,94000.0,Indo-European,"English, French, French Creole",,French Creole,"English, French, French Creole",,,,,,,,,,,,,,0.76,0.11,,0.02,0.02,,0.08999999999999997
+153,Sierra Leone,Africa,6200000.0,Indo-European,English,,English Creole,"English, English Creole",,"Mende, Temne",,,,,,,,,,,,0.03,0.07,,0.6,,,0.30000000000000004
+154,Singapore,Asia,5900000.0,Sino-Tibetan,"Mandarin, English, Malay, Tamil",,,English,"Mandarin, Minnan, Cantonese, Teochew",,,Malay,Tamil,,,,,,,,,0.07,,,0.14,0.05,0.34,0.3999999999999999
+155,Slovakia,Europe,5400000.0,Indo-European,Slovak,"Bulgarian, Czech, Polish, German, Romani, Ruthenian, Ukrainian",,"Slovak, Romani, Ruthenian, Bulgarian, Czech, Polish, German, Ukrainian",,,,,,,,,,,,Hungarian,,0.66,0.08,,,,,0.26
+156,Slovenia,Europe,2000000.0,Indo-European,Slovenian,"Italian, Hungarian",Slovenian,"Slovenian, Serbo-Croatian, Italian",,,,,,,,,,,,Hungarian,,0.58,,0.02,0.02,,,0.38
+157,Solomon Islands,,650000.0,Indo-European,English,,English Creole,"English, English Creole",,,,,,,,,,,,,,0.2,0.73,,,,,0.07000000000000006
+158,Somalia,Africa,11000000.0,Afro-Asiatic,,"Somali, Arabic",Somali,"Italian, English",,,"Somali, Arabic",,,,,,,,,,,,,,1.0,,,0.0
+159,South Africa,Africa,55000000.0,Niger-Congo,"Zulu, Xhosa, Afrikaans, English, Tswana, Sotho, Tsonga, Swazi, Venda, isiNdebele",,,"Afrikaans, English",,"Zulu, Xhosa, Tswana, Sotho, Tsonga, Swazi, Venda, isiNdebele",,,,,,,,,,,,0.07,0.37,,0.02,,,0.54
+160,South Sudan,Africa,13000000.0,Indo-European,English,,,English,,Zande,Arabic,,,,,,,,"Dinka, Nuer, Bari, Shilluk",,,0.21,0.39,,0.06,,,0.3400000000000001
+161,Spain,Europe,49000000.0,Indo-European,Spanish,"Catalan, Galician, Basque, Aranese",Spanish,"Spanish, Catalan, Galician, Aranese, Aragonese, Asturian, Calo",,,,,,,,,,,,,Basque,0.68,,,,,,0.31999999999999995
+162,Sri Lanka,,22000000.0,Indo-European,"Sinhalese, Tamil",,Sinhalese,"Sinhalese, English",,,,,Tamil,,,,,,,,,0.06,,,0.1,0.13,0.7,0.010000000000000009
+163,Sudan,Africa,37000000.0,Afro-Asiatic,"Arabic, English",,Arabic,English,,,"Arabic, Beja",,,,,,,,"Nubian, Fur",,,0.01,,0.01,0.97,,,0.010000000000000009
+164,Suriname,South America,590000.0,Indo-European,Dutch,,"Dutch, English Creole","Dutch, English, English Creole, Hindi",,,,Javanese,,,,,,,,,,0.22,0.24,,0.14,0.22,,0.18000000000000005
+165,Swaziland,Africa,1500000.0,Niger-Congo,"English, Swazi",,Swazi,English,,Swazi,,,,,,,,,,,,0.2,0.3,,0.02,,,0.48
+166,Sweden,Europe,10000000.0,Indo-European,Swedish,"Finnish, Sami, Romani, Yiddish",Swedish,"Swedish, Romani, Yiddish",,,,,,,,,,,,"Finnish, Sami",,0.01,0.67,0.01,0.01,,,0.29999999999999993
+167,Switzerland,Europe,8199999.999999999,Indo-European,"German, French, Italian, Romansch",,German,"German, French, Italian, English, Portuguese, Albanian, Serbo-Croatian, Spanish, Romansch",,,,,,,,,,,,,,0.37,0.25,,0.05,,,0.32999999999999996
+168,Syrian Arab Republic,Asia,18000000.0,Afro-Asiatic,Arabic,,Arabic,"Kurdish, Armenian, French, English",,,"Arabic, Aramaic",,,,,,,,,,Circassian,0.02,0.08,,0.87,,,0.030000000000000027
+169,Tajikistan,Asia,8500000.0,Indo-European,Persian,,Persian,"Persian, Russian, Pashto",,,,,,"Uzbek, Kyrgyz",,,,,,,,,,,0.9,,,0.09999999999999998
+170,Thailand,Asia,68000000.0,Kra-Dai,Thai,,Thai,English,Burmese,,,,,,,,Thai,,,,,,0.01,,0.04,,0.95,0.0
+171,Timor-Leste,,1300000.0,Austronesian,"Tetun, Portuguese",,,"Portuguese, English",,,,"Tetun, Mambai, Uab Meto, Kemak, Tokodede, Waima'a, Galoli, Naueti, Idalaka, Malay",,,,,,,,,"Makasai, Bunak, Fataluku",0.98,0.02,,,,,0.0
+172,Togo,Africa,8000000.0,Indo-European,French,,Ewe,French,,"Ewe, Kabiye, Dagbani",,,,,,,,,,,,0.25,0.05,,0.2,,,0.5
+173,Tonga,,110000.00000000001,Indo-European,"English, Tongan",,"English, Tongan",English,,,,Tongan,,,,,,,,,,0.16,0.65,,,,,0.18999999999999995
+174,Trinidad and Tobago,,1200000.0,Indo-European,English,,English Creole,"English, English Creole, Hindi, French, French Creole, Spanish",Mandarin,,,,,,,,,,,,,0.22,0.32,,0.05,0.18,,0.22999999999999998
+175,Tunisia,Africa,11000000.0,Afro-Asiatic,Arabic,,"Arabic, French",French,,,"Arabic, Tamazight",,,,,,,,,,,,,,0.99,,,0.010000000000000009
+176,Turkey,"Europe, Asia",81000000.0,Turkic,Turkish,,Turkish,Kurdish,,,,,,Turkish,,,,,,,,,,,1.0,,,0.0
+177,Turkmenistan,Asia,5400000.0,Turkic,Turkmen,,Turkmen,Russian,,,,,,"Turkmen, Uzbek",,,,,,,,,,0.09,0.89,,,0.020000000000000018
+178,Tuvalu,,11000.0,Austronesian,"Tuvaluan, English",,"Tuvaluan, Samoan",English,,,,"Tuvaluan, Samoan, Gilbertese",,,,,,,,,,,0.98,,,,,0.020000000000000018
+179,Uganda,Africa,40000000.0,Indo-European,"English, Swahili",,,English,,"Ganda, Swahili",Arabic,,,,,,,,,,,0.39,0.45,,0.14,,,0.019999999999999907
+180,Ukraine,Europe,44000000.0,Indo-European,Ukrainian,,Ukrainian,"Ukrainian, Russian, Romanian",,,,,,Tatar,,,,,,Hungarian,,0.1,,0.66,,,,0.24
+181,United Arab Emirates,Asia,6100000.0,Afro-Asiatic,Arabic,,Arabic,"Persian, English, Hindi, Urdu",,,Arabic,,,,,,,,,,,0.07,0.03,0.03,0.76,,,0.10999999999999999
+182,United Kingdom of Great Britain and Northern Ireland,,65000000.0,Indo-European,,"Cornish, Gaelic, Scots, Welsh, English Creole, Guernésiais, French, Jèrriais, Manx",English,"English, English Creole, Scots, Gaelic, Welsh, Irish, Cornish, Guernésiais, French, Jèrriais, Manx",,,,,,,,,,,,,,0.08,0.52,,0.04,0.01,,0.35
+183,United Republic of Tanzania,Africa,54000000.0,Niger-Congo,"Swahili, English",,"Swahili, English",English,,Swahili,Arabic,,,,,,,,,,,0.25,0.36,0.35,,,,0.040000000000000036
+184,United States of America,North America,330000000.0,Indo-European,,"Inupiaq, Siberian, Yupik, Central Alaskan Yup'ik, Alutiiq, Unangan, Dena'ina, Deg Xinag, Holikachuk, Koyukon, Upper Kuskokwim, Gwich'in, Tanana, Upper Tanana, Tanacross, Hän, Ahtna, Eyak, Tlingit, Haida, Tsimshian, Hawaiian, Cherokee, Samoan, Chamorro, Carolinian, Spanish, French",English,"English, Spanish, French",,,,"Hawaiian, Samoan, Chamorro, Carolinian",,,,,,,,,"Inupiaq, Siberian Yupik, Central Alaskan Yup'ik, Alutiiq, Unangan, Dena'ina, Deg Xinag, Holikachuk, Koyukon, Upper Kuskokwim, Gwich'in, Tanana, Upper Tanana, Tanacross, Hän, Ahtna, Eyak, Tlingit, Haida, Tsimshian, Cherokee",0.21,0.47,,0.01,0.01,0.01,0.29000000000000004
+185,Uruguay,South America,3400000.0,Indo-European,Spanish,,Spanish,"Spanish, Spanish-Portuguese Pidgin",,,,,,,,,,,,,,0.47,0.11,,,,,0.42000000000000004
+186,Uzbekistan,Asia,30000000.0,Turkic,Uzbek,,Uzbek,"Russian, Persian",,,,,,"Uzbek, Karakalpak",,,,,,,,,,0.09,0.88,,,0.030000000000000027
+187,Vanuatu,,280000.0,Indo-European,"English, English Creole, French",,,"English, English Creole, French",,,,,,,,,,,,,,0.12,0.7,,,,,0.18000000000000005
+188,Venezuela,South America,31000000.0,Indo-European,Spanish,,Spanish,Spanish,,,,,,,,,,,,,,0.96,0.02,,,,,0.020000000000000018
+189,Viet Nam,Asia,96000000.0,Austroasiatic,Vietnamese,,Vietnamese,"English, French",Mandarin,,,,,,,"Vietnamese, Khmer",,,,,,0.07,0.01,,,,0.08,0.84
+190,Yemen,Asia,28000000.0,Afro-Asiatic,Arabic,,Arabic,,,,"Arabic, Soqotri, Mahri",,,,,,,,,,,,,,,,,1.0
+191,Zambia,Africa,16000000.0,Indo-European,English,,,English,,"Bemba, Chewa, Tonga, Lozi, Senga, Tumbuka, Lunda, Kaonde, Lala-Bisa, Lamba, Luvale, Mambwe, Mwanga, Lenje",,,,,,,,,,,,0.2,0.75,,,,,0.050000000000000044
+192,Zimbabwe,Africa,14000000.0,Niger-Congo,"Shona, isiNdebele, English, Chewa, Sena, Kalanga, Khoisan, Nambya, Ndau, Tsonga, Sotho, Tonga, Tswana, Venda, Xhosa",,Shona,English,,"Shona, isiNdebele, Chewa, Sena, Kalanga, Nambya, Ndau, Tsonga, Sotho, Tonga, Tswana, Venda, Xhosa",,,,,,,,,,,Khoisan,0.07,0.83,,,,,0.10000000000000009
